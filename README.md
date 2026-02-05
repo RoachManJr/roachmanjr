@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hello Everybody, Welcome to my Github!
 
+My name is Lucas and I am a student developer in Montreal, Canada.
 <!--
 **RoachManJr/roachmanjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
